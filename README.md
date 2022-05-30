@@ -76,5 +76,6 @@ The final result will be named final_repeat_lib.fa in the folder given in the pa
 ```
 Liao X, Gao X, Zhang X, Wu FX, Wang J. 
 RepAHR: an improved approach for de novo repeat identification by assembly of the high-frequency reads. 
-BMC Bioinformatics. 2020 Oct 19;21(1):463. doi: 10.1186/s12859-020-03779-w. PMID: 33076827; PMCID: PMC7574428.
+BMC Bioinformatics. 2020 Oct 19;21(1):463. doi: 10.1186/s12859-020-03779-w. 
+PMID: 33076827; PMCID: PMC7574428.
 
