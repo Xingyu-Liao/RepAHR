@@ -71,3 +71,8 @@ python RepAHR.py -c parameter_config_file -r reads_config_file
 'RepAHR.py' 'parameter_config_file' 'reads_config_file' are all the absolute or relative path of the 3 files.
 ## Result
 The final result will be named final_repeat_lib.fa in the folder given in the parameter_config_file. And the raw contig file is name contig.fasta in the subfolder './spades_repeat_lib'.
+
+## Citation
+```
+Liao, X., Gao, X., Zhang, X. et al. RepAHR: an improved approach for de novo repeat identification by assembly of the high-frequency reads. BMC Bioinformatics 21, 463 (2020). https://doi.org/10.1186/s12859-020-03779-w
+
