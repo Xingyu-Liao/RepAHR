@@ -52,10 +52,10 @@ Some parameters need to be set in the parameter_config_file:
 
 The location of ecah reads file need to be given in the reads_config_file:
 
-    1 /home/zhangxk/data/file1_1.fastq
-    1 /home/zhangxk/data/file2_2.fastq
-    2 /home/zhangxk/data/file2_1.fastq
-    2 /home/zhangxk/data/file2_2.fastq
+    1 /home/data/file1_1.fastq
+    1 /home/data/file2_2.fastq
+    2 /home/data/file2_1.fastq
+    2 /home/data/file2_2.fastq
 
     Explanation of reads_config_file:
 
