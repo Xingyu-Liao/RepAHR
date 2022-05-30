@@ -11,7 +11,7 @@ Before the installation of RepAHR, the following tools or environment are requir
 
 To install RepAHR, follow the instruction below:
 ```
-git clone https://github.com/bioinfomaticsCSU/RepAHR
+git clone https://github.com/Xingyu-Liao/RepAHR_v2.0/
 ```
 ## Edit configure files:
 Before running RepAHR, need to edit 2 configure files: **parameter_config_file** and **reads_config_file**.
