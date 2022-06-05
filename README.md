@@ -1,3 +1,9 @@
+# Notice
+The new version of RepAHR (RepAHR_v2.0) is undergoing final debugging and will be launched soon.
+
+
+
+
 # RepAHR
 RepAHR is used to identify repeats(repetitive sequences) in genome using Next-Generation Sequencing reads.
 ## Installation
